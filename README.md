@@ -1,2 +1,2 @@
 # Gerenciador-de-Pastas
-Um gerenciador de pasta bem simples.
+Um gerenciador de pastas bem simples.
